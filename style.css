@@ -1,0 +1,24 @@
+h1{
+    width:100%;
+    height:40px;
+    font-size:30px;
+}
+button{
+    border-radius:40px;
+    font-family: 'Courier New', Courier, monospace;
+    height:40px;
+    font-size:30px;
+}
+body{
+    background-size:cover;
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+canvas{
+    box-shadow: 10px 15px 20px grey;
+    border-radius: 30px;
+}
+#back{
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius:50px;
+}
